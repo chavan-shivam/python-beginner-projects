@@ -1,2 +1,2 @@
 # python-beginner-projects
-Projects to learn python and apply learned cncepets
+Projects to learn python and apply learned concepts
